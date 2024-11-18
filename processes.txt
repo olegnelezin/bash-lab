@@ -1,0 +1,153 @@
+root             92932  66,7  0,1 33771580  12512   ??  Ss   ср09    4:53.72 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+root               335   2,4  0,3 33930476  24728   ??  Ss   31июл24  46:51.78 /usr/libexec/syspolicyd
+root              2384   0,1  0,0 34166692   2076 s002  S    11:45     0:00.05 zsh
+root               417   0,1  0,2 33906972  15260   ??  Ss   31июл24  78:03.68 /usr/libexec/TouchBarServer
+root              2391   0,1  0,0 34122888    992 s002  S+   11:46     0:00.01 /bin/bash ./script.sh
+root              2216   0,0  0,0 33669920    676   ??  SNs  11:29     0:00.01 /usr/libexec/periodic-wrapper monthly
+root              2212   0,0  0,1 33722468   5268   ??  Ss   11:29     0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root              2207   0,0  0,0 33711964   3676   ??  Ss   11:29     0:00.06 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root              2206   0,0  0,1 33776224   6168   ??  Ss   11:29     0:00.09 /usr/sbin/systemsoundserverd
+root              2204   0,0  0,1 34178752   4216 s000  Ss   11:29     0:00.04 login -pf olegnelezin
+root              2187   0,0  0,0 33678112    700   ??  SNs  11:29     0:00.01 /usr/libexec/periodic-wrapper weekly
+root              2165   0,0  0,0 33695060   1516   ??  Ss   11:29     0:00.02 endpointsecurityd
+root              2166   0,0  0,0 33720112   3316   ??  Ss   11:29     0:00.05 /usr/libexec/microstackshot
+root              2164   0,0  0,0 33727768   1388   ??  Ss   11:29     0:00.06 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+root              2140   0,0  0,0 33678112    532   ??  SNs  11:29     0:00.01 /usr/libexec/periodic-wrapper daily
+root              2134   0,0  0,0 34221704   2668   ??  Ss   11:29     0:00.08 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root              2100   0,0  0,0 33727768   1764   ??  Ss   11:29     0:00.06 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+root              1999   0,0  0,2 33779288  15328   ??  Ss   10:43     0:07.27 /usr/libexec/PerfPowerServices
+root              1600   0,0  0,0 33683708      4   ??  Ss   вс06    0:00.09 /usr/libexec/dirhelper
+root             99793   0,0  0,0 33761488    536   ??  Ss   пт11    0:00.14 /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/XPCServices/CoreSpeechXPC.xpc/Contents/MacOS/CoreSpeechXPC
+root             99790   0,0  0,0 33766304   1872   ??  Ss   пт11    0:00.17 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+root             99789   0,0  0,0 33761224   1592   ??  Ss   пт11    0:01.01 /usr/sbin/BTLEServer
+root             99787   0,0  0,0 33727572    412   ??  Ss   пт11    0:00.02 /usr/sbin/BlueTool -R
+root             99561   0,0  0,0 33684528      4   ??  Ss   пт09    0:00.04 /System/Library/CoreServices/ReportCrash daemon
+root             97807   0,0  0,0 33761684   2476   ??  Ss   пт09    0:00.24 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+root             97808   0,0  0,0 33762000   1620   ??  Ss   пт09    0:00.07 /usr/libexec/sysdiagnosed
+root             97797   0,0  0,0 33765664    428   ??  Ss   пт09    0:00.91 /usr/libexec/dprivacyd
+root             97752   0,0  0,0 33762668   2576   ??  Ss   пт09    0:01.93 /usr/libexec/ASPCarryLog
+root             97747   0,0  0,0 33727932    460   ??  Ss   пт09    0:00.07 /usr/libexec/griddatad
+root             97745   0,0  0,0 33765708   1032   ??  Ss   пт09    0:00.53 /usr/libexec/symptomsd-diag
+root             97647   0,0  0,0 33728012      4   ??  Ss   пт12    0:00.16 aslmanager
+root             96799   0,0  0,0 33770332    516   ??  Ss   чт11    0:00.30 /System/Library/CoreServices/iconservicesagent runAsRoot
+root             96696   0,0  0,0 33728396    952   ??  Ss   чт11    0:00.10 /usr/libexec/tzd
+root             96630   0,0  0,1 34248216  12444   ??  Ss   чт11    0:04.26 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+root             95755   0,0  0,0 33767472    524   ??  Ss   чт09    0:00.17 /System/Library/Frameworks/CoreMediaIO.framework/Resources/iOSScreenCapture.plugin/Contents/Resources/iOSScreenCaptureAssistant
+root             94112   0,0  0,0 33762896   1184   ??  Ss   ср11    0:05.44 /usr/libexec/nesessionmanager
+root             93553   0,0  0,0 33719856    868   ??  Ss   ср11    0:00.11 /usr/libexec/keybagd -t 15
+root             93040   0,0  0,0 33728320   1140   ??  Ss   ср10    0:00.20 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+root             92958   0,0  0,0 33761616   2620   ??  Ss   ср09    0:14.51 /usr/libexec/biometrickitd --launchd
+root             92957   0,0  0,0 33751904    632   ??  Ss   ср09    0:00.85 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+root             92954   0,0  0,0 33727800    680   ??  Ss   ср09    0:01.77 /usr/libexec/usbd
+root             92929   0,0  0,0 33761576    572   ??  Ss   ср09    0:07.37 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root             92926   0,0  0,0 34186692      4   ??  Ss   ср09    0:00.06 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+root             92871   0,0  0,1 33763348   5020   ??  Ss   ср09    0:03.89 /usr/libexec/PowerUIAgent
+root             92869   0,0  0,0 33784956   2468   ??  Ss   ср09    0:02.13 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+root             92867   0,0  0,0 33761132   2920   ??  Ss   ср09    0:09.78 /usr/libexec/wifivelocityd
+root             92707   0,0  0,0 33761684   2372   ??  Ss   ср08    7:51.27 /usr/libexec/findmybeaconingd
+root             92675   0,0  0,0 33760912   2080   ??  Ss   ср08    0:02.30 /usr/libexec/countryd
+root             92673   0,0  0,0 33760420   1584   ??  Ss   ср08    0:00.65 /usr/libexec/powerdatad
+root             92660   0,0  0,0 33712000     96   ??  Ss   ср08    0:00.15 /usr/libexec/smd
+root             92612   0,0  0,0 33727992    992   ??  Ss   ср08    0:09.05 /usr/libexec/sysmond
+root             92582   0,0  0,0 33730232   1852   ??  Ss   ср08    0:02.07 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+root             92571   0,0  0,0 33695228    416   ??  Ss   ср08    0:00.16 /usr/libexec/logd_helper
+root             92570   0,0  0,0 33761200   2656   ??  Ss   ср08    0:00.50 /usr/libexec/amfid
+root             92545   0,0  0,0 33727960   1920   ??  Ss   ср08    0:02.52 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+root             92547   0,0  0,0 33729348   1024   ??  Ss   ср08    0:00.30 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root             92542   0,0  0,0 33728304   1184   ??  Ss   ср08    0:00.34 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+root             92539   0,0  0,0 33728684   1044   ??  Ss   ср08    0:02.56 /usr/libexec/securityd_system
+root             92533   0,0  0,0 33761024   2256   ??  Ss   ср08    0:00.73 /System/Library/CoreServices/osanalyticshelper server-init
+root             92524   0,0  0,0 33782780   3700   ??  S    ср08    0:11.00 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root             92519   0,0  0,0 33760604    868   ??  Ss   ср08    0:00.19 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root             92511   0,0  0,0 33763200   1584   ??  Ss   ср08    0:00.43 /usr/libexec/sandboxd
+root             92496   0,0  0,0 33728328   2088   ??  Ss   ср08    0:01.75 /usr/libexec/usermanagerd -t 15
+root             92493   0,0  0,0 34187120    684   ??  Ss   ср08    0:00.17 /usr/libexec/online-auth-agent
+root             92491   0,0  0,0 33762120    996   ??  Ss   ср08    0:08.70 /usr/libexec/ospredictiond
+root             92483   0,0  0,0 33790176   2600   ??  Ss   ср08    0:04.34 /usr/sbin/spindump
+root             92482   0,0  0,0 33736908   1768   ??  Ss   ср08    0:05.84 /usr/libexec/mobileactivationd
+root             92381   0,0  0,0 33761716   3784   ??  Ss   ср08    0:10.88 /usr/sbin/WirelessRadioManagerd
+root             91266   0,0  0,0 33728316   1588   ??  Ss   вт11    0:00.31 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root             91264   0,0  0,0 33728316   1576   ??  Ss   вт11    0:00.33 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root             91261   0,0  0,0 33729444    880   ??  Ss   вт11    0:00.18 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root             90815   0,0  0,0 33762348   2004   ??  Ss   вт10    0:08.36 /usr/libexec/audioanalyticsd
+root             90273   0,0  0,1 33774512   7056   ??  Ss   вт12    0:14.81 /usr/libexec/rtcreportingd
+root             90271   0,0  0,0 33760728   1836   ??  Ss   вт12    0:02.71 /usr/libexec/nehelper
+root             90172   0,0  0,0 33728276   1776   ??  Ss   пн09    0:00.78 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root             90165   0,0  0,2 33791292  13208   ??  Ss   пн09    2:43.59 /usr/libexec/mobileassetd
+root             90148   0,0  0,0 33770244   1864   ??  Ss   пн09    0:06.72 /usr/libexec/findmydeviced
+root             87967   0,0  0,2 33834616  15204   ??  Ss   10ноя24   4:29.00 /usr/sbin/bluetoothd
+root             61863   0,0  0,0 33761476   2708   ??  Ss   24окт24   0:07.22 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root             50990   0,0  0,1 33770396   9532   ??  Ss    1сен24  31:55.21 /usr/libexec/coreduetd
+root             50955   0,0  0,1 33702316   5268   ??  Ss    1сен24   6:26.00 /usr/libexec/wifip2pd
+root             45325   0,0  0,0 33728392    424   ??  Ss   22авг24   0:00.38 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdsync -s mdworker-scan -c MDSSyncScanWorker -m com.apple.metadata.mds.scan
+root             20377   0,0  0,0 33728304      4   ??  Ss    6авг24   0:00.23 /usr/libexec/taskgated
+root              6296   0,0  0,0 33761916   1488   ??  Ss    1авг24   0:03.79 /usr/libexec/aned
+root              2152   0,0  0,0 33728336    940   ??  Ss    1авг24   0:00.62 /System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd
+root              2072   0,0  0,0 33728440      4   ??  Ss    1авг24   0:07.52 /usr/libexec/logd_reporter
+root               993   0,0  0,0 33702692      4   ??  Ss   31июл24   0:00.09 /System/Library/PrivateFrameworks/InstallerDiagnostics.framework/Versions/A/Resources/installerdiagd
+root               763   0,0  0,0 33727784    528   ??  Ss   31июл24   0:00.55 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+root               750   0,0  0,0 33720404      4   ??  Ss   31июл24   0:00.70 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+root               640   0,0  0,0 33762440   1808   ??  Ss   31июл24   3:11.86 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+root               571   0,0  0,0 33762184   1116   ??  Ss   31июл24   0:09.87 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+root               568   0,0  0,0 33727896    964   ??  Ss   31июл24   0:02.93 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+root               519   0,0  0,0 33729448     60   ??  Ss   31июл24   0:04.86 automountd
+root               478   0,0  0,0 33770184   3368   ??  Ss   31июл24   0:32.67 /usr/sbin/filecoordinationd
+root               450   0,0  0,0 33728404    236   ??  Ss   31июл24   0:00.59 /usr/libexec/securityd_service
+root               435   0,0  0,0 33763044   1604   ??  S    31июл24   0:39.89 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               407   0,0  0,0 33767712   3048   ??  Ss   31июл24   2:35.33 /usr/libexec/wifianalyticsd
+root               391   0,0  0,0 33678644    168   ??  Ss   31июл24   0:12.40 /usr/libexec/thermald
+root               342   0,0  0,0 35422000    196   ??  Ss   31июл24   0:03.81 /Library/PrivilegedHelperTools/com.docker.vmnetd
+root               336   0,0  0,2 33845032  12692   ??  Ss   31июл24   9:21.37 /usr/libexec/searchpartyd
+root               333   0,0  0,0 34190964   1152   ??  Ss   31июл24  15:40.69 /usr/libexec/audioclocksyncd
+root               331   0,0  0,8 35856136  67160   ??  Ss   31июл24  62:20.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               288   0,0  0,1 33778200   4780   ??  Ss   31июл24   1:39.35 /System/Library/CoreServices/SubmitDiagInfo server-init
+root               248   0,0  0,0 33760124    600   ??  Ss   31июл24   2:10.02 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               241   0,0  0,0 33760000   1368   ??  Ss   31июл24   0:00.51 /System/Library/PrivateFrameworks/InstallerDiagnostics.framework/Versions/A/Resources/installerdiagwatcher
+root               230   0,0  0,0 33770252   1600   ??  Ss   31июл24   0:36.72 /usr/libexec/storagekitd
+root               229   0,0  0,0 33760292    952   ??  Ss   31июл24   0:16.67 /usr/libexec/apfsd
+root               222   0,0  0,0 33685940      4   ??  Ss   31июл24   0:00.02 /usr/libexec/multiversed
+root               220   0,0  0,0 33763324   2644   ??  Ss   31июл24   1:00.70 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               209   0,0  0,0 33663256    284   ??  S    31июл24   0:16.23 /usr/sbin/distnoted agent
+root               217   0,0  0,0 33763060    692   ??  Ss   31июл24   0:59.12 /usr/sbin/mDNSResponderHelper
+root               204   0,0  0,2 33809108  20960   ??  Ss   31июл24 359:40.09 /usr/libexec/airportd
+root               186   0,0  0,1 33774156   7760   ??  Ss   31июл24   8:31.36 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               178   0,0  0,1 33772344   8936   ??  Ss   31июл24  38:44.24 /usr/libexec/runningboardd
+root               176   0,0  0,1 33770856   7076   ??  Ss   31июл24   4:29.05 /usr/libexec/lsd runAsRoot
+root               172   0,0  0,0 33778864   1412   ??  Ss   31июл24   0:26.33 /System/Library/CoreServices/coreservicesd
+root               169   0,0  0,1 33781112   7168   ??  Ss   31июл24   4:13.74 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               168   0,0  0,0 33730092   3996   ??  Ss   31июл24   9:01.52 /usr/sbin/cfprefsd daemon
+root               165   0,0  0,0 33760844   1792   ??  Ss   31июл24   0:19.26 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               140   0,0  0,1 33763528   8720   ??  Ss   31июл24   8:52.20 /System/Library/CoreServices/launchservicesd
+root               156   0,0  0,0 33770696   3064   ??  Ss   31июл24   0:06.96 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               149   0,0  0,1 33763180   8384   ??  Ss   31июл24  28:08.35 /usr/libexec/dasd
+root               134   0,0  0,0 33728912    984   ??  Ss   31июл24   2:30.90 /usr/sbin/syslogd
+root               107   0,0  0,1 33775432   5416   ??  Ss   31июл24   5:35.21 /usr/sbin/systemstats --daemon
+root               104   0,0  0,1 33769180   5356   ??  Ss   31июл24  11:43.04 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               164   0,0  0,1 33803264   6524   ??  Ss   31июл24 152:03.55 /usr/libexec/AirPlayXPCHelper
+root               163   0,0  0,0 33762320   2784   ??  Ss   31июл24   1:57.73 /usr/libexec/corebrightnessd --launchd
+root               157   0,0  0,0 33728304      4   ??  Ss   31июл24   0:00.16 /usr/sbin/KernelEventAgent
+root               143   0,0  0,0 33763452   4140   ??  Ss   31июл24   2:55.60 /usr/sbin/securityd -i
+root               161   0,0  0,0 33728140   2460   ??  Ss   31июл24   8:39.50 /usr/sbin/notifyd
+root               155   0,0  0,0 33727828    808   ??  Ss   31июл24   0:02.77 /System/Library/CoreServices/logind
+root               147   0,0  0,0 33712036      4   ??  Ss   31июл24   0:00.22 autofsd
+root               139   0,0  0,2 33876400  19888   ??  Ss   31июл24  22:39.81 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               138   0,0  0,1 33784008   8816   ??  Ss   31июл24  34:04.69 /usr/libexec/opendirectoryd
+root               137   0,0  0,0 33693980      4   ??  Ss   31июл24   0:00.03 /usr/libexec/thermalmonitord
+root               130   0,0  0,0 33760652   2268   ??  Ss   31июл24   0:55.81 /usr/libexec/diskarbitrationd
+root               129   0,0  0,0 33768276   3320   ??  Ss   31июл24   2:01.66 /usr/libexec/kernelmanagerd
+root               118   0,0  0,0 33770284   1908   ??  Ss   31июл24   3:36.05 /usr/libexec/remoted
+root               127   0,0  0,2 34006248  17988   ??  Ss   31июл24  41:44.86 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               123   0,0  0,0 33712000    668   ??  Ss   31июл24   0:40.43 /usr/libexec/watchdogd
+root               112   0,0  0,1 33762640   6500   ??  Ss   31июл24  28:05.16 /System/Library/CoreServices/powerd.bundle/powerd
+root               110   0,0  0,1 33765352   6780   ??  Ss   31июл24  25:30.05 /usr/libexec/configd
+root               103   0,0  0,1 33746664   6092   ??  Ss   31июл24  28:04.49 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               102   0,0  0,0 33703220    544   ??  Ss   31июл24   0:42.35 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                97   0,0  0,4 33868064  33488   ??  Ss   31июл24  45:58.15 /usr/libexec/logd
+root                99   0,0  0,1 33764060   5876   ??  Ss   31июл24   8:25.15 /usr/libexec/UserEventAgent (System)
+root              2394   0,0  0,0 34121336    664 s002  S+   11:46     0:00.01 grep ^root
+root                 1   0,0  0,2 34189624  17980   ??  Ss   31июл24  54:17.46 /sbin/launchd
+root              2393   0,0  0,0 34132160   1100 s002  R+   11:46     0:00.01 ps aux
+root              2376   0,0  0,0 34142344   1312 s002  S    11:45     0:00.02 sh
+root              2375   0,0  0,0 34162308   4032 s002  S    11:45     0:00.02 su
+root              2372   0,0  0,1 34202804   5824 s002  S    11:45     0:00.05 sudo su
+root              2340   0,0  0,0 34161344   4080 s002  Ss   11:43     0:00.02 login -fp olegnelezin
